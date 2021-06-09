@@ -1,0 +1,31 @@
+# Don't track content of these folders
+dist/
+
+
+
+# Compiled source #
+###################
+*.html
+*.o
+*.su
+*.d
+*.mk
+*.p1
+*.i
+*.rlf
+
+
+
+
+# Packages #
+############
+# it's better to unpack these files and commit the raw source
+# git has its own built in compression methods
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
